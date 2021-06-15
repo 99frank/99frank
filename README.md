@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frank
 - 👀 I’m interested in 📸 👨🏽‍💻 🎧 🎬 👟 🐶 🐱
-- 🌱 I’m currently learning GraphQL, Next Js and Nest JS
+- 🌱 I’m currently learning GraphQL, Next JS and Nest JS
 - 💞️ I’m working on @99minutos
 
 <!---
